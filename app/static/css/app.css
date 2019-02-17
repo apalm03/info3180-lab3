@@ -1,3 +1,27 @@
+
+
 body {
     padding-top: 5rem;
+}
+
+.required{
+    color: #c14636;
+}
+
+.submitButton{
+    color: white;
+    background: #28cd49;;
+    border-radius: 5px;
+    width: 100px;
+}
+
+
+.curveB{
+    border-radius: 5px;
+    
+}
+
+.mess_sent{
+    color: green;
+    font-size: 50px;
 }
